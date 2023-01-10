@@ -1,0 +1,5 @@
+#This project runs on the requirements below:
+
+pip3 install numpy
+pip3 install pandas
+pip3 install streamlit
